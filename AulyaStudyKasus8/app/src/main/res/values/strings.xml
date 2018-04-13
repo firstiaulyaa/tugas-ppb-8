@@ -1,0 +1,9 @@
+<resources>
+<string name="app_name">Aulya StudyKasus8</string>
+<string-array name="salon">
+    <item>Spa</item>
+    <item>Pedicure</item>
+    <item>Massage</item>
+</string-array>
+
+</resources>
